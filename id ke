@@ -1,0 +1,2 @@
+cd /home/ec2-user/.ssh
+cat id_ed25519
